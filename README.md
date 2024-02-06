@@ -16,4 +16,4 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=blue&labelColor=0D1117)&nbsp;
  
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#2a60f7&height=120&section=header"/>
