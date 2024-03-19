@@ -16,7 +16,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
 ![VSCode](https://img.shields.io/badge/-VSCode-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=blue&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/Mysql-0D4479A1?style=for-the-badge&logo=mysql&logoColor=1572B6&labelColor=black)&nbsp; 
+![MySQL](https://img.shields.io/badge/Mysql-0D4479A1?style=for-the-badge&logo=mysql&logoColor=1572B6&bluelabelColor==0D1117)&nbsp; 
  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#142433&height=120&section=header"/>
