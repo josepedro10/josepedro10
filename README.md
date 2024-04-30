@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2e2929&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff00&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com//?color=2e2929&size=35&center=true&vCenter=true&width=1000&lines=Fala+Brother+Seja+Bem+Vindo+ao+meu+perfil!+%3AD;Me+chamo+José+Pedro)](https://git.io/typing-svg)
 
@@ -19,4 +19,4 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=blue&labelColor=0D1117)&nbsp; 
  
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2e2929&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff00&height=120&section=header"/>
