@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com//?color==white&size=35&center=true&vCenter=true&width=1000&lines=Fala+Brother+Seja+Bem+Vindo+ao+meu+perfil!+%3AD;Me+chamo+José+Pedro)](https://git.io/typing-svg)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=josepedro10&bg_color=2e2929&color=ffff00&line=ffff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=josepedro10&show_icons=true&count_private=true&hide_border=true&title_color=9BA4B5&icon_color=394867&text_color=c9d1d9&bg_color=0d1117" alt="Jose Pedro GitHub stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josepedro10&layout=compact&hide_border=true&title_color=394867&text_color=9BA4B5&bg_color=0d1117" />
